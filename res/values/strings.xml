@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Roll The Dice</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Introduction">Enter your guess and then click the button</string>
+    <string name="Image_view">dice</string>
+    <string name="button_text">Roll Dice</string>
+    <string name="user_instructions">Enter a number 2 to 12</string>
+    <string name="empty_string"> </string>
+    <string name="roll_history">Roll history: </string>
+    <string name="winString">Congratulations! You win!</string>
+    <string name="loseString">Sorry, not a match</string>
+
+</resources>
